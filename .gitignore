@@ -1,0 +1,15 @@
+# Xcode
+*.xcuserstate
+xcuserdata/
+DerivedData/
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+build/
+
+# Config with secrets
+baby-rhythm-app/baby-rhythm-app/baby-rhythm-app/Config.swift
+
+# macOS
+.DS_Store
